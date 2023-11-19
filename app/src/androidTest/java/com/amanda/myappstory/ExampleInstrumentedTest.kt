@@ -1,4 +1,4 @@
-package com.dicoding.myappstory
+package com.amanda.myappstory
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

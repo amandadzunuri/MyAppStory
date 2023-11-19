@@ -1,4 +1,4 @@
-package com.dicoding.myappstory
+package com.amanda.myappstory
 
 import org.junit.Test
 

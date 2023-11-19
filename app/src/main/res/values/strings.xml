@@ -1,3 +1,32 @@
 <resources>
     <string name="app_name">MyAppStory</string>
+    <string name="email">Enter your email address</string>
+    <string name="password">Enter your password</string>
+    <string name="name">Enter your fullname</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="deskripsi">Deskripsi detail\n</string>
+    <string name="camera">Camera</string>
+    <string name="camera_x">CameraX</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="empty_image_warning">Gambar kosong</string>
+    <string name="upload_success">Upload Berhasil\n</string>
+    <string name="title_success">Sukses</string>
+    <string name="title_oke">Oke\n</string>
+    <string name="title_failed">Gagal</string>
+    <string name="title_upload">Upload</string>
+    <string name="title_detail">Title detail</string>
+    <string name="title_main">My Story App</string>
+    <string name="item_name">Name</string>
+    <string name="item_description">Deskripsi</string>
+    <string name="error_email">Format email salah</string>
+    <string name="error_password">Password kurang dari 8 karakter</string>
+    <string name="message_empty">Tidak boleh kosong</string>
+    <string name="message_register_success">Akun berhasil dibuat</string>
+    <string name="message_register_failed">Akun gagal dibuat</string>
+    <string name="message_error">Error</string>
+    <string name="message_login_success">Login sukses, selamat datang</string>
+    <string name="message_login_failed">Login gagal</string>
+    <string name="login_success_message">Login Berhasil</string>
+    <string name="login_error_message">Login Gagal</string>
 </resources>
